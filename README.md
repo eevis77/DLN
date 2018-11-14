@@ -99,3 +99,6 @@ Use either asterisk or minus sign
 ## Check list
 - [ ] kfafaf
 - [x] dafaf
+
+# Links and images
+to do a link: [Hesari](http://www.hs.fi)
