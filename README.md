@@ -78,3 +78,24 @@ You can make simple tables by using the pipe symbol (Shift+backslash) and minus 
 |Item 1|Item 2|Item 3|
 |**bold**|*italics*|`code`|
 |Item 4|Item 5|Item 6||
+
+
+# ITEM LISTS
+
+## Ordered lists
+
+1. This is the second item
+    1. sub item (two tabs)
+2. This is the first item
+3. This is the third item
+
+## lists not ordered
+Use either asterisk or minus sign
+* item 1
+    * item b (two tabs)
+* item 2
+* item 3
+
+## Check list
+- [ ] kfafaf
+- [x] dafaf
