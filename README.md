@@ -74,6 +74,7 @@ You can also have codes withing your text like this: `echo halo world`!
 You can make simple tables by using the pipe symbol (Shift+backslash) and minus signs:
 
 |Column 1|Column 2|Column 3|
-|--------|--------|--------|
+|-------:|:-------|-------:|
 |Item 1|Item 2|Item 3|
 |**bold**|*italics*|`code`|
+|Item 4|Item 5|Item 6||
