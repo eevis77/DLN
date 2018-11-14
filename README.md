@@ -38,3 +38,13 @@ If you want to use an asterisk for other stuff, type \ and then the asterisk: \*
 You can check Preview to see changes highlighted in green, and deletions in red
 
 Can also combine both: **_heavystuff_**
+
+# Line ruling #
+You can rule lines like this: add at least three minus signs
+
+----
+
+Or with three underscores
+
+____ 
+
