@@ -48,3 +48,22 @@ Or with three underscores
 
 ____ 
 
+## Quotes
+
+To add quotes, use a greater than sign
+> Unbelievable luck
+
+Or can do multi-line quotes
+>happy
+> sad
+> into
+> horses
+
+## Code Blocks
+
+To make a code block in your text, use three backticks:
+```
+install.packages("tidyverse")
+library(tidyverse)
+```
+
