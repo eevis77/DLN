@@ -101,7 +101,7 @@ Use either asterisk or minus sign
 - [x] dafaf
 
 # Links and images
-to do a link: [Hesari](http://www.hs.fi)
+to do a link, add square brackets for the name, then curvy brackets for the url: [Hesari](http://www.hs.fi)
 
 To add an image, put an exclamation mark before the link code: 
 
