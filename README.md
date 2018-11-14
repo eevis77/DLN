@@ -106,3 +106,11 @@ to do a link, add square brackets for the name, then curvy brackets for the url:
 To add an image, put an exclamation mark before the link code: 
 
 ![Blue_chicken](http://www.tiritirimatangi.org.nz/images/Birds/Takahe.jpg)
+
+This repository contains some methods and results for my experiments. 
+
+Please look at [Results](/results/) for up-to-date results
+
+Also, check out the most recent assay protocol at [Methods](/methods/) 
+
+To see my schedule of sampling, please see [General Notes](/General_notes)
