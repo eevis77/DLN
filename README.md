@@ -102,3 +102,7 @@ Use either asterisk or minus sign
 
 # Links and images
 to do a link: [Hesari](http://www.hs.fi)
+
+To add an image, put an exclamation mark before the link code: 
+
+![Blue_chicken](http://www.tiritirimatangi.org.nz/images/Birds/Takahe.jpg)
